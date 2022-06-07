@@ -1,1 +1,1 @@
-# .github
+# The Ideogram Network
